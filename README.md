@@ -1,4 +1,5 @@
-### SYN-ACK
+### SYN-ACK 🤝 
+
 I'm an undergraduate interested in cybersecurity and low-level systems.
 
 
