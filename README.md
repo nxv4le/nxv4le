@@ -1,6 +1,6 @@
 ### SYN-ACK 🤝 
 
-I'm an undergraduate interested in cybersecurity and low-level systems.
+I'm an undergraduate ('30) interested in cybersecurity and low-level systems.
 
 
 <!--<img src="ascii-art-cafe.png" alt="Banner" width="40%">
