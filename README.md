@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="892" height="1068" alt="image" src="https://github.com/user-attachments/assets/53774541-6960-47ea-a04f-ce4aeef8f1a8" />
+<img src="ascii-art-cafe.jpg" alt="Banner" width="100%">
 
 <!--
 **nxv4le/nxv4le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
